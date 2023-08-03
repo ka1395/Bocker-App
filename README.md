@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+It is a real estate marketing application that displays the details of the property, such as the number of rooms, the dimensions of the room in meters double or single and some image for inside the real estate. Consists of login, register, home , favorite , contact us ,add Post , post details , profile , and chat screen . I use socket IO and Http package to create chat between admin and user. use package Dio to Handling APIs GitHup
 
 A few resources to get you started if this is your first Flutter project:
 
